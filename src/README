@@ -1,0 +1,47 @@
+README
+
+Proje Açıklaması: Bu proje Techno Study'nin test edilme sürecine odaklanmıştır. Techno Study web sitesinin testi ve
+kullanılabilirliğinin arttırılması amaçlanmıştır.
+
+Proje Detayları:
+1.Techno Study web sitesinin "/tr" alanı test edilecektir.
+2.Toplam 8 user story proje backlog'unda bulunmaktadır.
+3.Bu hikayelerin tamamının bir sprintte bitirilmesi hedeflenmiştir.
+4.Anasayfada kursları gösteren dropdown menünün doğru çalıştığını
+doğrulamak.
+5.Kullanıcıların Campus platformuna anasayfadan hızlı giriş yapabildiğini
+doğrulamak.
+6.Kullanıcıların "Başvur" butonu ile kurs başvurusu yapabildiğini doğrulamak.
+7.Alt menüler aracılığıyla kurslara, sosyal medya hesaplarına ve Techno Study
+anasayfasına hızlı erişim sağladığını doğrulamak.
+8.Her sayfada Techno Study logosuna tıklanarak anasayfaya yönlendirilebildiğini
+doğrulamak.
+9."Kendi Kursunu Seç" bölümünde her kurs için "Detaylı Bilgi" butonunun
+çalıştığını doğrulamak.
+10."Bize Ulaşın" formundaki "Şartlarım" bağlantısının "Kullanım Şartları" sayfasına
+yönlendirdiğini doğrulamak.
+
+Gereksinimler:
+I.Windows 10/11
+II.JDK 1.8SE
+III.İntelij IDEA
+IV.org.seleniumhq.selenium:selenium-java:4.11.0
+V.org.slf4j:slf4j-nop:1.7.30
+VI.commons-io:commons-io:2.11.0
+
+Sürüm:
+1.0.0
+
+QA Lead:
+Burhan Şengül : burhseng@gmail.com
+
+Collaborators:
+Şeyma Kado : 4seyma@gmail.com
+Fatihhan Karahanlı : fatihhan.karahanli@gmail.com
+Ramazan İnce : inceliramazan80@gmail.com
+Zafer Cansız : zfrcnsz1@gmail.com
+
+
+
+Bu proje [TECHNO STUDY] Lisansı altında lisanslanmıştır - ayrıntılar için
+https://techno.study/tr/
